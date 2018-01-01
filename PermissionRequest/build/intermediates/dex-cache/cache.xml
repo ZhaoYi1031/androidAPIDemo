@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhaoy\.android\build-cache\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_1de26ed62e61d405e942a8766d51bf5b313274bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2_bbf72d47161d923bc1b6cbdb7442bc11abcf6123.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="555491d8a70c8a1a978f18af614389336f7298cc">
+        <dex dex="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_41e40e9cbdf408b9734ccb1c426bcedf5375cf6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f246063045d915d21a30815210271997f4268aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhaoy\.android\build-cache\54c8612a9b11b7bd285e9d06159865a62907483c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_bb013129f312631dbee0f0444fb35b6877ebcaa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2_9fc3c7de1400ed4e3c2ff4e230b8c3908f6474a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_15d820033e46826b1992e59b36ff48f185d28802.jar" />
+    </item>
+
+</items>

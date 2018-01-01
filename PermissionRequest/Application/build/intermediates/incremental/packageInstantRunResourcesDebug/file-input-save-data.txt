@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Jan 01 11:45:48 CST 2018
+2.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug
+6.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-w720dp-v13\\activity_main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug\\sample.js
+7.set=ASSET
+count=11
+0.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+5.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug\\sample.html
+4.set=ANDROID_RESOURCE
+6.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+10.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug
+2.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug
+3.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\assets\\debug\\sample.css
+3.set=ASSET
+1.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_permission_request.xml
+8.set=ASSET
+0.set=ANDROID_RESOURCE

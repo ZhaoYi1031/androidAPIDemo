@@ -1,0 +1,1214 @@
+[
+    {
+        "outputFile": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 61,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 61,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 63,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 58,
+                    "endOffset": 3174
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 58,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3179,
+                    "endColumn": 56,
+                    "endOffset": 3231
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 56,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3236,
+                    "endColumn": 53,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 53,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 43,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\54c8612a9b11b7bd285e9d06159865a62907483c\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 8968,
+                        "endColumn": 43,
+                        "endOffset": 9007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 69,
+                    "endOffset": 3399
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3404,
+                    "endColumn": 42,
+                    "endOffset": 3442
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3447,
+                    "endColumn": 43,
+                    "endOffset": 3486
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3491,
+                    "endColumn": 44,
+                    "endOffset": 3531
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3536,
+                    "endColumn": 42,
+                    "endOffset": 3574
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3579,
+                    "endColumn": 41,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 67,
+                    "endOffset": 3684
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3689,
+                    "endColumn": 39,
+                    "endOffset": 3724
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 39,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3729,
+                    "endColumn": 54,
+                    "endOffset": 3779
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 54,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3784,
+                    "endColumn": 94,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 94,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 37,
+                    "endOffset": 3912
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 37,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3917,
+                    "endLine": 75,
+                    "endColumn": 13,
+                    "endOffset": 4138
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4143,
+                    "endColumn": 52,
+                    "endOffset": 4191
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 52,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4196,
+                    "endColumn": 52,
+                    "endOffset": 4244
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4249,
+                    "endColumn": 50,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4761
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4766,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 5015
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2699,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5020,
+                    "endColumn": 59,
+                    "endOffset": 5075
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5080,
+                    "endColumn": 52,
+                    "endOffset": 5128
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5133,
+                    "endColumn": 26,
+                    "endOffset": 5155
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5160,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 5351
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5356,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 5629
+                },
+                "from": {
+                    "file": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\webview\\PermissionRequest\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 61,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 61,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 61,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 61,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 63,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 63,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 58,
+                    "endOffset": 3174
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 58,
+                        "endOffset": 1988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3179,
+                    "endColumn": 56,
+                    "endOffset": 3231
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1993,
+                        "endColumn": 56,
+                        "endOffset": 2045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3236,
+                    "endColumn": 53,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2050,
+                        "endColumn": 53,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 43,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\54c8612a9b11b7bd285e9d06159865a62907483c\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 8968,
+                        "endColumn": 43,
+                        "endOffset": 9007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 69,
+                    "endOffset": 3399
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3404,
+                    "endColumn": 42,
+                    "endOffset": 3442
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3447,
+                    "endColumn": 43,
+                    "endOffset": 3486
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3491,
+                    "endColumn": 44,
+                    "endOffset": 3531
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3536,
+                    "endColumn": 42,
+                    "endOffset": 3574
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3579,
+                    "endColumn": 41,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 67,
+                    "endOffset": 3684
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3689,
+                    "endColumn": 39,
+                    "endOffset": 3724
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 39,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3729,
+                    "endColumn": 54,
+                    "endOffset": 3779
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 54,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3784,
+                    "endColumn": 94,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 94,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 37,
+                    "endOffset": 3912
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 37,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3917,
+                    "endLine": 75,
+                    "endColumn": 13,
+                    "endOffset": 4138
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endLine": 28,
+                        "endColumn": 13,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4143,
+                    "endColumn": 52,
+                    "endOffset": 4191
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 52,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4196,
+                    "endColumn": 52,
+                    "endOffset": 4244
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 52,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4249,
+                    "endColumn": 50,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4761
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2105,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4766,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2572,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endLine": 92,
+                    "endColumn": 12,
+                    "endOffset": 5015
+                },
+                "from": {
+                    "file": "C:\\Users\\zhaoy\\.android\\build-cache\\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2699,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5020,
+                    "endColumn": 59,
+                    "endOffset": 5075
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5080,
+                    "endColumn": 52,
+                    "endOffset": 5128
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5133,
+                    "endColumn": 26,
+                    "endOffset": 5155
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5160,
+                    "endLine": 99,
+                    "endColumn": 12,
+                    "endOffset": 5351
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5356,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 5629
+                },
+                "from": {
+                    "file": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\BaiduNetdiskDownload\\android-6.0\\content\\webview\\PermissionRequest\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

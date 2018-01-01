@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:18:5-52
+	android:versionName
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:23:22-62
+application
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:25:5-37:19
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\54c8612a9b11b7bd285e9d06159865a62907483c\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\output\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:25:18-44
+	android:icon
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.permissionrequest.MainActivity
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:30:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\54c8612a9b11b7bd285e9d06159865a62907483c\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\output\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml

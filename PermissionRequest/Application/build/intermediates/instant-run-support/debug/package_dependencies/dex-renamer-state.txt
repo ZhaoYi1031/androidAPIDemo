@@ -1,0 +1,16 @@
+#Mon Jan 01 11:45:54 CST 2018
+renamed.4=classes2.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes.dex
+base.4=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1de26ed62e61d405e942a8766d51bf5b313274bc
+renamed.0=classes5.dex
+base.3=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_bbf72d47161d923bc1b6cbdb7442bc11abcf6123
+base.2=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bb013129f312631dbee0f0444fb35b6877ebcaa6
+base.1=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_15d820033e46826b1992e59b36ff48f185d28802
+base.0=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.2_9fc3c7de1400ed4e3c2ff4e230b8c3908f6474a5
+file.4=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1de26ed62e61d405e942a8766d51bf5b313274bc\\classes.dex
+file.3=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_bbf72d47161d923bc1b6cbdb7442bc11abcf6123\\classes.dex
+file.2=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bb013129f312631dbee0f0444fb35b6877ebcaa6\\classes.dex
+file.1=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_15d820033e46826b1992e59b36ff48f185d28802\\classes.dex
+file.0=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.2_9fc3c7de1400ed4e3c2ff4e230b8c3908f6474a5\\classes.dex
