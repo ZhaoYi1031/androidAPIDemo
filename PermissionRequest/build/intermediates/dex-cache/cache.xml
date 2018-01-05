@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\webview\PermissionRequest\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9c4915e0dc724e89c8543fc6053c2ee0bf9e3f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -63,6 +72,15 @@
         revision="25.0.0"
         sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
         <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes_15d820033e46826b1992e59b36ff48f185d28802.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\webview\PermissionRequest\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9273c57a1954a3848164ab07550eb4313da15743">
+        <dex dex="E:\webview\PermissionRequest\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bef999ca6575dd965ba0fe81476f159774aa49ac\classes.dex" />
     </item>
 
 </items>

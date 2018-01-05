@@ -1,2 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\webview\PermissionRequest\Application\tests\res"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\rs\androidTest\debug"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\webview\PermissionRequest\Application\tests\res"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\rs\androidTest\debug"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\resValues\androidTest\debug"/></dataSet><mergedItems/></merger>
+<merger version="3"><dataSet config="com.android.support:cardview-v7:21.0.2$Generated" generated="true"><source path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\res"/></dataSet><dataSet config="com.android.support:cardview-v7:21.0.2" from-dependency="true" generated-set="com.android.support:cardview-v7:21.0.2$Generated"><source path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\res"><file path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\res\values\values.xml" qualifiers=""><color name="cardview_dark_background">#FF202020</color><color name="cardview_light_background">#FFFAFAFA</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView">
+
+        
+        <attr format="color" name="cardBackgroundColor"/>
+        
+        <attr format="dimension" name="cardCornerRadius"/>
+        
+        <attr format="dimension" name="cardElevation"/>
+        
+        <attr format="dimension" name="cardMaxElevation"/>
+        
+        <attr format="boolean" name="cardUseCompatPadding"/>
+        
+        <attr format="boolean" name="cardPreventCornerOverlap"/>
+        
+        <attr format="dimension" name="contentPadding"/>
+        
+        <attr format="dimension" name="contentPaddingLeft"/>
+        
+        <attr format="dimension" name="contentPaddingRight"/>
+        
+        <attr format="dimension" name="contentPaddingTop"/>
+        
+        <attr format="dimension" name="contentPaddingBottom"/>
+    </declare-styleable><dimen name="cardview_compat_inset_shadow">1dp</dimen><dimen name="cardview_default_elevation">2dp</dimen><dimen name="cardview_default_radius">2dp</dimen><style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style><style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style><style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style></file></source></dataSet><dataSet config="com.android.support:gridlayout-v7:21.0.2$Generated" generated="true"><source path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\res"/></dataSet><dataSet config="com.android.support:gridlayout-v7:21.0.2" from-dependency="true" generated-set="com.android.support:gridlayout-v7:21.0.2$Generated"><source path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\res"><file path="C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\res\values\values.xml" qualifiers=""><declare-styleable name="GridLayout">
+
+        
+
+
+        
+        <attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="rowCount"/>
+        
+        <attr format="integer" name="columnCount"/>
+        
+        <attr format="boolean" name="useDefaultMargins"/>
+        
+        <attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr>
+        
+        <attr format="boolean" name="rowOrderPreserved"/>
+        
+        <attr format="boolean" name="columnOrderPreserved"/>
+    </declare-styleable><declare-styleable name="GridLayout_Layout">
+
+        
+
+
+        
+
+        <attr name="android:layout_width"/>
+        <attr name="android:layout_height"/>
+        
+        <attr name="android:layout_margin"/>
+        
+        <attr name="android:layout_marginLeft"/>
+        
+        <attr name="android:layout_marginTop"/>
+        
+        <attr name="android:layout_marginRight"/>
+        
+        <attr name="android:layout_marginBottom"/>
+
+        
+
+
+        
+        <attr format="integer" name="layout_row"/>
+        
+        <attr format="integer" min="1" name="layout_rowSpan"/>
+        
+        <attr format="float" name="layout_rowWeight"/>
+        
+        <attr format="integer" name="layout_column"/>
+        
+        <attr format="integer" min="1" name="layout_columnSpan"/>
+        
+        <attr format="float" name="layout_columnWeight"/>
+        
+        <attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+    </declare-styleable><dimen name="default_gap">16dip</dimen></file></source></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\webview\PermissionRequest\Application\tests\res"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\rs\androidTest\debug"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\webview\PermissionRequest\Application\tests\res"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\rs\androidTest\debug"/><source path="E:\webview\PermissionRequest\Application\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\webview\PermissionRequest\Application\src\androidTestDebug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\webview\PermissionRequest\Application\src\androidTestDebug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="GridLayout"><attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable><declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable><declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="float" name="layout_rowWeight"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr format="float" name="layout_columnWeight"/><attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

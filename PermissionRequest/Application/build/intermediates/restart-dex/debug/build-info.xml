@@ -2,59 +2,92 @@
 <instant-run
     abi="x86"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1514778347506"
+    timestamp="1514805486481"
     token="-431381461900395643"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="285" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="256" />
+        duration="0" />
     <task
         name="verifier"
-        duration="143" />
+        duration="0" />
 
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
     <artifact
         location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
         location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
         location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
         location="E:\webview\PermissionRequest\Application\build\outputs\apk\Application-debug.apk"
@@ -62,31 +95,25 @@
 
     <build
         build-mode="FULL"
-        timestamp="1514776787920"
+        timestamp="1514805486481"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\outputs\apk\Application-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -95,48 +122,46 @@
             location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1514778347506"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="E:\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\BaiduNetdiskDownload\android-6.0\content\webview\PermissionRequest\Application\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="E:\webview\PermissionRequest\Application\build\outputs\apk\Application-debug.apk"

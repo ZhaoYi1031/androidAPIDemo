@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\webview\\PermissionRequest\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhaoy\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-21.0.2.aar\\9827b0531e8cc1b8df6765bf6376efe9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,34,35,36,38,47,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,117,179,241,1934,1993,2050,2105,2572,2699",
+                        "endLines": "3,4,5,6,34,35,36,45,49,53",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12",
+                        "endOffsets": "112,174,236,300,1988,2045,2099,2566,2693,2822"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,51,52,53,79,87,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,3120,3179,3236,4312,4778,4904",
+                        "endLines": "2,3,4,5,51,52,53,86,89,92",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12",
+                        "endOffsets": "111,173,235,299,3174,3231,3285,4773,4899,5027"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zhaoy\\.gradle\\caches\\transforms-1\\files-1.1\\gridlayout-v7-21.0.2.aar\\3a151643ede8cbe5fe6ccd67cf6bc686\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "197",
+                        "startColumns": "4",
+                        "startOffsets": "8968",
+                        "endColumns": "43",
+                        "endOffsets": "9007"
+                    },
+                    "to": {
+                        "startLines": "54",
+                        "startColumns": "4",
+                        "startOffsets": "3290",
+                        "endColumns": "43",
+                        "endOffsets": "3329"
+                    }
+                },
+                {
+                    "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "959,880,836,791,748,706,1029",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1024,918,875,831,786,743,1092"
+                    },
+                    "to": {
+                        "startLines": "55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3334,3404,3447,3491,3536,3579,3621",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "3399,3442,3486,3531,3574,3616,3684"
+                    }
+                },
+                {
+                    "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "768,651,713,849,878,1075",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "815,707,762,872,1069,1348"
+                    },
+                    "to": {
+                        "startLines": "78,93,94,95,96,100",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "4261,5032,5092,5145,5172,5368",
+                        "endLines": "78,93,94,95,99,105",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "4307,5087,5140,5167,5363,5641"
+                    }
+                },
+                {
+                    "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "647,702",
+                        "endLines": "18,28",
+                        "endColumns": "54,13",
+                        "endOffsets": "697,935"
+                    },
+                    "to": {
+                        "startLines": "63,66",
+                        "startColumns": "4,4",
+                        "startOffsets": "3729,3917",
+                        "endLines": "63,75",
+                        "endColumns": "54,13",
+                        "endOffsets": "3779,4150"
+                    }
+                },
+                {
+                    "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,17,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "741,646,781",
+                        "endColumns": "39,94,37",
+                        "endOffsets": "776,736,814"
+                    },
+                    "to": {
+                        "startLines": "62,64,65",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3689,3784,3879",
+                        "endColumns": "39,94,37",
+                        "endOffsets": "3724,3874,3912"
+                    }
+                },
+                {
+                    "source": "E:\\webview\\PermissionRequest\\Application\\src\\main\\res\\values\\fragmentview_strings.xml",
+                    "from": {
+                        "startLines": "17,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "670,617",
+                        "endColumns": "52,52",
+                        "endOffsets": "718,665"
+                    },
+                    "to": {
+                        "startLines": "76,77",
+                        "startColumns": "4,4",
+                        "startOffsets": "4155,4208",
+                        "endColumns": "52,52",
+                        "endOffsets": "4203,4256"
+                    }
+                }
+            ]
+        }
+    ]
+}

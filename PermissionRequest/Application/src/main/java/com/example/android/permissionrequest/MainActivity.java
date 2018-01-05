@@ -17,7 +17,11 @@
 
 package com.example.android.permissionrequest;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.hardware.Camera;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v4.app.FragmentTransaction;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -40,6 +44,7 @@ public class MainActivity extends SampleActivityBase {
 
     public static final String TAG = "MainActivity";
 
+    //mLogShown代表的是当前选择的顶部的menuItem是“ShowLog”还是“HideLog”
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
 
@@ -47,6 +52,20 @@ public class MainActivity extends SampleActivityBase {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        //Intent it = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        //startActivityForResult(it, Activity.DEFAULT_KEYS_DIALER);
+
+////重写onActivityResult方法
+//        @Override
+//        protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+//            if(requestCode == Activity.RESULT_OK){
+//                Bundle bundle = data.getExtras();
+//                Bitmap bitmap = (Bitmap) bundle.get("data");
+//                img_show.setImageBitmap(bitmap);
+//            }
+//        }
+
 
         if (savedInstanceState == null) {
             FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
@@ -75,7 +94,7 @@ public class MainActivity extends SampleActivityBase {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch(item.getItemId()) {
             case R.id.menu_toggle_log:
-                mLogShown = !mLogShown;
+                mLogShown = !mLogShown; //每次点击之后都取反
                 ViewAnimator output = (ViewAnimator) findViewById(R.id.sample_output);
                 if (mLogShown) {
                     output.setDisplayedChild(1);

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 01 11:45:48 CST 2018
+#Mon Jan 01 19:17:29 CST 2018
 2.base=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_
 5.file=E\:\\webview\\PermissionRequest\\Application\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
 5.set=ANDROID_RESOURCE

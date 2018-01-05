@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\webview\\PermissionRequest\\Application\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhaoy\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-21.0.2.aar\\9827b0531e8cc1b8df6765bf6376efe9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,34,35,36,38,47,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,117,179,241,1934,1993,2050,2105,2572,2699",
+                        "endLines": "3,4,5,6,34,35,36,45,49,53",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12",
+                        "endOffsets": "112,174,236,300,1988,2045,2099,2566,2693,2822"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,51,52,53,55,63,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,3120,3179,3236,3334,3800,3926",
+                        "endLines": "2,3,4,5,51,52,53,62,65,68",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12",
+                        "endOffsets": "111,173,235,299,3174,3231,3285,3795,3921,4049"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zhaoy\\.gradle\\caches\\transforms-1\\files-1.1\\gridlayout-v7-21.0.2.aar\\3a151643ede8cbe5fe6ccd67cf6bc686\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "197",
+                        "startColumns": "4",
+                        "startOffsets": "8968",
+                        "endColumns": "43",
+                        "endOffsets": "9007"
+                    },
+                    "to": {
+                        "startLines": "54",
+                        "startColumns": "4",
+                        "startOffsets": "3290",
+                        "endColumns": "43",
+                        "endOffsets": "3329"
+                    }
+                }
+            ]
+        }
+    ]
+}

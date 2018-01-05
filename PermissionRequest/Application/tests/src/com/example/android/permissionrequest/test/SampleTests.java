@@ -18,6 +18,7 @@ package com.example.android.permissionrequest.test;
 import android.graphics.Rect;
 import android.os.SystemClock;
 import android.test.ActivityInstrumentationTestCase2;
+import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.webkit.ConsoleMessage;
@@ -34,7 +35,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * Tests for PermissionRequest sample.
  */
 public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> {
-
+    private static final String TAG = "SampleTests";
     private MainActivity mTestActivity;
     private PermissionRequestFragment mTestFragment;
 
@@ -110,6 +111,7 @@ public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> 
         runTestOnUiThread(new Runnable() {
             @Override
             public void run() {
+                Log.e(TAG, "*******");
                 Rect rect = new Rect();
                 webView.getHitRect(rect);
                 int x = rect.width() / 2;
@@ -131,6 +133,7 @@ public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> 
      * @throws InterruptedException
      */
     private ConfirmationDialogFragment waitForDialog() throws InterruptedException {
+        Log.e(TAG, "HHHHHHHH");
         int count = 20;
         ConfirmationDialogFragment dialog = null;
         while (0 < count) {
@@ -173,6 +176,7 @@ public class SampleTests extends ActivityInstrumentationTestCase2<MainActivity> 
         }
 
         public boolean waitForKeyword(String keyword, long timeoutMs) throws InterruptedException {
+            Log.d(TAG, "%%%%%%%");
             long time = 0;
             while (time < timeoutMs) {
                 String message;

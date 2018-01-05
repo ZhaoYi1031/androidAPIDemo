@@ -29,6 +29,7 @@ public class ConfirmationDialogFragment extends DialogFragment {
 
     private static final String ARG_RESOURCES = "resources";
 
+    //产生一个对话框，提示用户选权限
     /**
      * Creates a new instance of ConfirmationDialogFragment.
      *
@@ -43,9 +44,12 @@ public class ConfirmationDialogFragment extends DialogFragment {
         return fragment;
     }
 
+    //返回一个对话框，就是我们点击start会产生的那个
+    // "This web page wants to use following resources:\n\n android.webkit.resource.VIDEO_CAPTURE"
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
         String[] resources = getArguments().getStringArray(ARG_RESOURCES);
+        System.out.println("@@@@@@@@"+TextUtils.join("\n", resources));
         return new AlertDialog.Builder(getActivity())
                 .setMessage(getString(R.string.confirmation, TextUtils.join("\n", resources)))
                 .setNegativeButton(R.string.deny, new DialogInterface.OnClickListener() {

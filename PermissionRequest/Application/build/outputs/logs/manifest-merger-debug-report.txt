@@ -1,18 +1,25 @@
 -- Merging decision tree log ---
 manifest
 ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.2.aar\0a50ec97145c74097c3f840dcfb5af49\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\AndroidManifest.xml:14:4-17:12
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:1-39:12
 	package
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:18:5-52
 	android:versionName
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:20:5-30
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:19:5-28
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:17:11-69
 uses-permission#android.permission.INTERNET
 ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:22:5-66
 	android:name
@@ -23,15 +30,18 @@ ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:23:22-62
 application
 ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:25:5-37:19
-MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\54c8612a9b11b7bd285e9d06159865a62907483c\output\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.2.aar\0a50ec97145c74097c3f840dcfb5af49\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.2.aar\0a50ec97145c74097c3f840dcfb5af49\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\AndroidManifest.xml:16:5-19
 	android:label
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:26:9-41
-	android:allowBackup
-		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:25:18-44
 	android:icon
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:25:18-44
 	android:theme
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:28:9-40
 activity#com.example.android.permissionrequest.MainActivity
@@ -52,12 +62,21 @@ ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\54c8612a9b11b7bd285e9d06159865a62907483c\output\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.android\build-cache\32e002971594c6c8eae6f48c765da215734d1e97\output\AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.android\build-cache\3cc8f32cbfc32341e3ec1d54fab1e0c58ec51a13\output\AndroidManifest.xml:15:5-42
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:gridlayout-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-21.0.2.aar\3a151643ede8cbe5fe6ccd67cf6bc686\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.2.aar\0a50ec97145c74097c3f840dcfb5af49\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.2.aar\0a50ec97145c74097c3f840dcfb5af49\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.2] C:\Users\zhaoy\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.2.aar\9827b0531e8cc1b8df6765bf6376efe9\AndroidManifest.xml:15:5-42
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
+		ADDED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
 		INJECTED from E:\webview\PermissionRequest\Application\src\main\AndroidManifest.xml
